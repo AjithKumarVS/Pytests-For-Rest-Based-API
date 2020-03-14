@@ -79,18 +79,9 @@ IF YOU ARE OUT OF TOKENS:
     "status": 301
 }
 ``` 
-## Challenge
-The challenge is to create pytest's that create a users account, stores a sentence using the credentials you created, and retrieves the sentence you stored. 
+## Goal
+The goal is to create pytest's that create a users account, stores a sentence using the credentials you created, and retrieves the sentence you stored. 
 
-1. Navigate to test_cases
-2. In test_registration.py write a function that registers a users account. 
-3. In test_sentence_storing.py write a function that stores a sentence to the users account you created.
-4. In test_sentence_retrieval.py write a function that retrieves the sentence you stored. 
-5. Submit work!
-
-## Helpful links
-- https://docs.pytest.org/en/latest/
-- https://requests.readthedocs.io/en/master/
 
 
 
